@@ -1,0 +1,62 @@
+Magnétar
+
+Article
+Discussion
+Lire
+Modifier
+Modifier le code
+Voir l’historique
+
+Outils
+
+Vue d'artiste d'un magnétar.
+Un magnétar ou une étoile magnétique, une magnétoile selon la dénomination officielle en France1, est une étoile à neutrons dont le champ magnétique est extrêmement intense et qui émet un rayonnement électromagnétique de haute énergie (rayons X et rayons gamma).
+
+Histoire
+L'existence des magnétars est postulée en 1992 par les astronomes Robert Duncan (en) et Christopher Thompson (de), qui établissent un lien entre la théorie des champs magnétiques intenses et les observations des sources gamma2. Dans la décennie qui suit, elle est acceptée comme explication plausible des sursauteurs gamma mous et des pulsars X anormaux.
+
+L'explosion du magnétar SGR 1806-20 est enregistrée en 2004. L'énergie libérée a affecté l'atmosphère supérieure de la Terre, alors que celle-ci se trouvait à 50 000 années-lumière de l'explosion (ce qui veut dire que l'explosion a eu lieu il y a environ 50 000 ans).
+
+En 2023, l'une des deux étoiles du système binaire HD 45166 est identifiée comme une étoile Wolf-Rayet ayant une masse de 2 masses solaires et un champ magnétique de 43 kG : selon les modèles d'évolution stellaire elle explosera en supernova et laissera comme résidu un magnétar. Cette étoile Wolf-Rayet fortement magnétique résulte plausiblement de la fusion de deux étoiles à hélium de masse inférieure3.
+
+Formation
+
+Vue d'artiste du sursaut SGR 1806-20 de décembre 2004.
+Lorsqu'une supernova devient une étoile à neutrons, l'intensité de son champ magnétique croît. Duncan et Thompson calculèrent que celui-ci, normalement déjà de 108 teslas, pouvait dépasser dans certaines conditions 1011 teslas (1015 gauss)4. Une telle étoile magnétique est alors nommée magnétar.
+
+En 2001, il est estimé qu'une supernova sur dix donne naissance à un magnétar2 plutôt qu'à une autre étoile à neutrons ou à un pulsar. Les prérequis sont une rotation rapide et un champ magnétique intense avant l'explosion. Ce champ magnétique serait créé par un générateur électrique utilisant la convection de matière nucléaire durant les dix premières secondes environ de la vie d'une étoile à neutrons. Si cette dernière tourne suffisamment rapidement, les courants de convection deviennent globaux et transfèrent leur énergie au champ magnétique. Lorsque la rotation est trop lente, les courants de convection ne se forment que dans des régions locales.
+
+Au centre du magnétar la pression est si forte que les baryons Delta pourraient constituer jusqu'à 10 % du cœur5,6.
+
+Genèse des sursauteurs gamma mous
+Des tensions provoquant des tremblements d'étoile se produisent parfois dans les couches externes des magnétars2,7, constituées de plasma d'éléments lourds (principalement de fer). Ces vibrations très énergétiques produisent des bouffées de rayons X et gamma. Une telle étoile est nommée soft gamma repeater (SGR), soit sursauteur gamma mou2.
+
+Illustration de leur intensité magnétique
+Les magnétars ont un champ magnétique bien supérieur à 10 gigateslas. Ce champ magnétique serait suffisant pour démagnétiser (et donc rendre inutilisables) toutes les cartes de paiement à bande magnétique de la Terre depuis la moitié de la distance qui la sépare de la Lune, et serait fatal à une distance de 1 000 km8.
+
+En comparaison, le champ magnétique terrestre est d'environ 50 microteslas.[réf. souhaitée]
+
+Exemples
+4U 0142+61 9
+
+Culture populaire
+Dans la deuxième saison de la série télévisée Another Life, un magnétar révèle la faiblesse de la race des Achaïas, et permet à l'humanité de remporter une importante victoire contre eux.
+Notes et références
+« magnétoile » [archive], sur FranceTerme (consulté le 18 août 2023), Journal officiel de la République française du 10 octobre 2009.
+Kevin Hurley, « Les magnétoiles » [archive], sur Pour la science, 1er janvier 2001 (consulté le 28 avril 2021).
+(en) Tomer Shenar, Gregg A. Wade, Pablo Marchant, Stefano Bagnulo, Julia Bodensteiner et al., « A massive helium star with a sufficiently strong magnetic field to form a magnetar », Science, vol. 381, no 6659,‎ 17 août 2023, p. 761-765 (DOI 10.1126/science.ade3293).
+« Magnétar : qu'est-ce que c'est ? » [archive], sur futura-sciences.
+S. B., « Des particules exotiques au cœur des magnétars », Pour la science, no 541,‎ novembre 2022, p. 14.
+(en) K. D. Marquez, M. R. Pelicer, S. Ghosh, J. Peterson, D. Chatterjee et al., « Exploring the effects of Δ baryons in magnetars », Physical Review C, vol. 106,‎ septembre 2022, article no 035801 (DOI 10.1103/PhysRevC.106.035801).
+Chryssa Kouveliotou, Robert Duncan et Christopher Thompson, « Les Magnétars » [archive], sur Pour La Science, 1er février 2003 (consulté le 28 avril 2021).
+(en) « Cosmic Explosion Among the Brightest in Recorded History » [archive], sur NASA (consulté le 17 décembre 2007).
+Roberto Taverna, Roberto Turolla, Fabio Muleri, Jeremy Heyl, Silvia Zane, Luca Baldini, Denis González-Caniulef, Matteo Bachetti, John Rankin, Ilaria Caiazzo, Niccolò Di Lalla, Victor Doroshenko, Manel Errando, Ephraim Gau, Demet Kırmızıbayrak, Henric Krawczynski, Michela Negro, Mason Ng, Nicola Omodei, Andrea Possenti, Toru Tamagawa, Keisuke Uchiyama, Martin C. Weisskopf, Ivan Agudo, Lucio A. Antonelli, Wayne H. Baumgartner, Ronaldo Bellazzini, Stefano Bianchi, Stephen D. Bongiorno, Raffaella Bonino, Alessandro Brez, Niccolò Bucciantini, Fiamma Capitanio, Simone Castellano, Elisabetta Cavazzuti, Stefano Ciprini, Enrico Costa, Alessandra De Rosa, Ettore Del Monte, Laura Di Gesu, Alessandro Di Marco, Immacolata Donnarumma, Michal Dovčiak, Steven R. Ehlert, Teruaki Enoto, Yuri Evangelista, Sergio Fabiani, Riccardo Ferrazzoli, Javier A. Garcia, Shuichi Gunji, Kiyoshi Hayashida, Wataru Iwakiri, Svetlana G. Jorstad, Vladimir Karas, Takao Kitaguchi, Jeffery J. Kolodziejczak, Fabio La Monaca, Luca Latronico, Ioannis Liodakis, Simone Maldera, Alberto Manfreda, Frédéric Marin, Andrea Marinucci, Alan P. Marscher, Herman L. Marshall, Giorgio Matt, Ikuyuki Mitsuishi, Tsunefumi Mizuno, Stephen C.-Y. Ng, Stephen L. O’Dell, Chiara Oppedisano, Alessandro Papitto, George G. Pavlov, Abel L. Peirson, Matteo Perri, Melissa Pesce-Rollins, Maura Pilia, Juri Poutanen, Simonetta Puccetti, Brian D. Ramsey, Ajay Ratheesh, Roger W. Romani, Carmelo Sgrò, Patrick Slane, Paolo Soffitta, Gloria Spandre, Fabrizio Tavecchio, Yuzuru Tawara, Allyn F. Tennant, Nicholas E. Thomas, Francesco Tombesi, Alessio Trois, Sergey S. Tsygankov, Jacco Vink, Kinwah Wu, Fei Xie https://www.science.org/doi/10.1126/science.add0080 [archive], https://www.science.org/ [archive] (par Leah Crane https://www.newscientist.com/article/2345521-a-weird-dead-star-may-have-a-solid-like-surface-made-of-iron-crystals/ [archive], https://www.newscientist.com/ [archive] (New Scientist))
+Voir aussi
+Sur les autres projets Wikimedia :
+
+Magnétar, sur Wikimedia Commons
+magnétar, sur le Wiktionnaire
+Articles connexes
+Étoile à neutrons
+Pulsar
+Sursaut radio rapide

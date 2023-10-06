@@ -1,0 +1,40 @@
+# define niceties
+define user express greeting
+    "Bonjour"
+    "Salut"
+    "Comment vas-tu ?"
+
+define flow greeting
+    user express greeting
+    bot express greeting
+    bot ask how are you
+
+# define limits
+define user ask politics
+    "Quel est ton avis sur la politique ?"
+    "Que penses-tu du premier ministre?"
+    "socialiste"
+    "libéral"
+
+define bot answer politics
+    "Désolé, je suis un assistant d'entreprise. Je ne parle pas de politique."
+
+define flow politics
+    user ask politics
+    bot answer politics
+    bot offer help
+
+define user speaks about holiday
+    "J'ai besoin de vacances"
+    "C'est bientôt le weekend"
+    "Je suis plein d'énergie"
+
+define bot answer holiday
+    "Préférez-vous la plage ou la montagne ?"
+    "J'irai bien skier avec vous !"
+    "J'adorerais me détendre mais je suis un bot"
+
+define flow holiday
+    user speaks about holiday
+    bot answer holiday
+    bot offer help
